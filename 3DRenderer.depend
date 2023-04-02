@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1658965052 source:c:\users\krzysiek\desktop\3drenderer\main.cpp
+	<iostream>
+	<vector>
+	<cstdio>
+	"vec.h"
+	"camera.h"
+	"entity.h"
+
+1658960059 c:\users\krzysiek\desktop\3drenderer\vec.h
+	<iostream>
+	<math.h>
+
+1658965297 c:\users\krzysiek\desktop\3drenderer\camera.h
+	<iostream>
+	<math.h>
+	<vector>
+	"vec.h"
+	"entity.h"
+
+1658963345 c:\users\krzysiek\desktop\3drenderer\entity.h
+	<iostream>
+	"vec.h"
+
