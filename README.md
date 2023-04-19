@@ -13,3 +13,53 @@
     -->
   </p>
 </p>
+
+<br><br>
+
+# About The Project
+
+
+<br>
+
+## Build With
+* C++
+
+<br>
+
+# Getting Started
+
+<br>
+
+## Prerequisites
+
+
+<br>
+
+## Build & Run
+
+
+<br>
+
+# Usage
+
+
+<br>
+
+## Game rules
+
+
+# Roadmap
+No updates are planned in the near future.
+
+<br>
+
+# Licence
+Distributed under the MIT License. See `LICENSE` for more information.
+
+<br>
+
+# Contact
+Made with love by Krzysztof Borowski - krzysztofborowski02@gmail.com
+<br>
+Project Link:
+My website: https://kbrw.pl/
