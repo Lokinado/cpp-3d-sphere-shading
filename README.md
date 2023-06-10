@@ -1,3 +1,21 @@
+<!--
++++
+author = "Krzysztof Borowski"
+title = "C++ 3D sphere shading"
+date = "2023-03-06"
+description = "This project is capable of rendering sphere in ascii art in terminal"
+summary = "This project is capable of rendering sphere in ascii art in terminal"
+draft="false"
+tags = [
+    "asm", 
+    "computer architecture",
+]
+categories = [
+    "assignments",
+]
++++
+-->
+
 <p align="center">
     <h1 align="center" style="border-bottom: none; margin-bottom: 0">
         <strong>
