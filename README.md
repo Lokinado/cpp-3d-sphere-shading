@@ -2,16 +2,16 @@
 +++
 author = "Krzysztof Borowski"
 title = "C++ 3D sphere shading"
-date = "2023-03-06"
-description = "This project is capable of rendering sphere in ascii art in terminal"
+date = "2022-06-12"
+description = "Program that calculates shading for 3D sphere in sun-like lightning."
 summary = "This project is capable of rendering sphere in ascii art in terminal"
 draft="false"
 tags = [
-    "asm", 
-    "computer architecture",
+    "c++", 
+    "math",
 ]
 categories = [
-    "assignments",
+    "graphics",
 ]
 +++
 -->
@@ -35,7 +35,7 @@ categories = [
 <br><br>
 
 # About The Project
-
+Program that calculates shading for 3D sphere in sun-like lightning. This project also renders that sphere in the form of ASCII ART. I developed my own method to calculate shadows and generate images. Deriving necessary equations by hand was a big part of this project.
 
 <br>
 
@@ -62,9 +62,6 @@ categories = [
 
 
 <br>
-
-## Game rules
-
 
 # Roadmap
 No updates are planned in the near future.
