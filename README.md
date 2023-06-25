@@ -16,6 +16,10 @@ categories = [
 +++
 -->
 
+![GitHub](https://img.shields.io/github/license/Lokinado/cpp-3d-sphere-shading?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/Lokinado/cpp-3d-sphere-shading?style=for-the-badge)
+![GitHub top language](https://img.shields.io/github/languages/top/Lokinado/cpp-3d-sphere-shading?style=for-the-badge)
+
 <p align="center">
     <h1 align="center" style="border-bottom: none; margin-bottom: 0">
         <strong>
