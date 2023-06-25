@@ -48,22 +48,29 @@ Program that calculates shading for 3D sphere in sun-like lightning. This projec
 
 <br>
 
-# Getting Started
-
-<br>
-
 ## Prerequisites
-
+* Any C++ compiler
 
 <br>
 
 ## Build & Run
-
+1. Clone the repo
+```sh
+git clone https://github.com/Lokinado/cpp-3d-sphere-shading
+```
+2. Run compiler in main directory.
+```sh
+g++ -o main main.cpp
+```
+3. Run program, expected result should be displayed instantly.
+```sh
+./main
+```
 
 <br>
 
 # Usage
-
+There are no interactive functionalities. It is possible to customize execution result only by editing source code directly.
 
 <br>
 
@@ -80,5 +87,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 # Contact
 Made with love by Krzysztof Borowski - krzysztofborowski02@gmail.com
 <br>
-Project Link:
-My website: https://kbrw.pl/
+Project Link: https://github.com/Lokinado/cpp-3d-sphere-shading
